@@ -1,0 +1,112 @@
+category_id,permalink,name
+92,arts,Arts
+1,categories,Categories
+93,arts-books,Books
+94,arts-design,Design
+95,arts-fashion-beauty,Fashion & Beauty
+96,arts-food,Food
+97,arts-performing-arts,Performing Arts
+98,arts-visual-arts,Visual Arts
+100,business-careers,Careers
+101,business-entrepreneurship,Entrepreneurship
+102,business-investing,Investing
+103,business-management,Management
+104,business-marketing,Marketing
+105,business-non-profit,Non-Profit
+107,comedy-comedy-interviews,Comedy Interviews
+108,comedy-improv,Improv
+109,comedy-stand-up,Stand-Up
+111,education-courses,Courses
+112,education-how-to,How To
+113,education-language-learning,Language Learning
+114,education-self-improvement,Self-Improvement
+115,fiction,Fiction
+116,fiction-comedy-fiction,Comedy Fiction
+117,fiction-drama,Drama
+118,fiction-science-fiction,Science Fiction
+119,government,Government
+128,kids-family,Kids & Family
+129,kids-family-education-for-kids,Education for Kids
+130,kids-family-parenting,Parenting
+131,kids-family-pets-animals,Pets & Animals
+132,kids-family-stories-for-kids,Stories for Kids
+133,leisure,Leisure
+134,leisure-animation-manga,Animation & Manga
+135,leisure-automotive,Automotive
+136,leisure-aviation,Aviation
+137,leisure-crafts,Crafts
+138,leisure-games,Games
+139,leisure-hobbies,Hobbies
+140,leisure-home-garden,Home & Garden
+141,leisure-video-games,Video Games
+143,music-music-commentary,Music Commentary
+144,music-music-history,Music History
+145,music-music-interviews,Music Interviews
+147,news-business-news,Business News
+148,news-daily-news,Daily News
+149,news-entertainment-news,Entertainment News
+150,news-news-commentary,News Commentary
+151,news-politics,Politics
+152,news-sports-news,Sports News
+153,news-tech-news,Tech News
+154,religion-spirituality,Religion & Spirituality
+155,religion-spirituality-buddhism,Buddhism
+156,religion-spirituality-christianity,Christianity
+157,religion-spirituality-hinduism,Hinduism
+158,religion-spirituality-islam,Islam
+159,religion-spirituality-judaism,Judaism
+160,religion-spirituality-religion,Religion
+161,religion-spirituality-spirituality,Spirituality
+163,science-astronomy,Astronomy
+164,science-chemistry,Chemistry
+165,science-earth-sciences,Earth Sciences
+166,science-life-sciences,Life Sciences
+167,science-mathematics,Mathematics
+168,science-natural-sciences,Natural Sciences
+169,science-nature,Nature
+170,science-physics,Physics
+171,science-social-sciences,Social Sciences
+172,society-culture,Society & Culture
+173,society-culture-documentary,Documentary
+174,society-culture-personal-journals,Personal Journals
+175,society-culture-philosophy,Philosophy
+176,society-culture-places-travel,Places & Travel
+177,society-culture-relationships,Relationships
+179,sports-baseball,Baseball
+180,sports-basketball,Basketball
+181,sports-cricket,Cricket
+182,sports-fantasy-sports,Fantasy Sports
+183,sports-football,Football
+184,sports-golf,Golf
+185,sports-hockey,Hockey
+186,sports-rugby,Rugby
+187,sports-running,Running
+188,sports-soccer,Soccer
+189,sports-swimming,Swimming
+190,sports-tennis,Tennis
+191,sports-volleyball,Volleyball
+192,sports-wilderness,Wilderness
+193,sports-wrestling,Wrestling
+195,true-crime,True Crime
+196,tv-film,TV & Film
+197,tv-film-after-shows,After Shows
+198,tv-film-film-history,Film History
+199,tv-film-film-interviews,Film Interviews
+200,tv-film-film-reviews,Film Reviews
+201,tv-film-tv-reviews,TV Reviews
+99,business,Business
+106,comedy,Comedy
+110,education,Education
+142,music,Music
+146,news,News
+162,science,Science
+178,sports,Sports
+194,technology,Technology
+121,health-fitness,Health & Fitness
+122,health-fitness-alternative-health,Alternative Health
+123,health-fitness-fitness,Fitness
+124,health-fitness-medicine,Medicine
+125,health-fitness-mental-health,Mental Health
+126,health-fitness-nutrition,Nutrition
+127,health-fitness-sexuality,Sexuality
+120,history,History
